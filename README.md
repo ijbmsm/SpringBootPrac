@@ -9,3 +9,6 @@
 ## Paging과 sort처리
 1. pageRequest
 2. Page<T>타입
+
+## jpql
+## Querydsl
