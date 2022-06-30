@@ -10,5 +10,5 @@
 1. pageRequest
 2. Page<T>타입
 
-## jpql
-## Querydsl
+## JPQL
+## Querydsl <-영속성 컨텍스트랑 같이 꼭 공부하기
